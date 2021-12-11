@@ -1,5 +1,9 @@
 # Fizica-dark-mode
 
+# Method 1: 
+Go to darkmode_bookmarklet.txt, select all the text and drag it into the bookmarks bar. In order to use it, click the bookmark.
+
+# Method 2:
 Right-click on the PDF document.
 Go to Open with > Google Chrome (or any other browser).
 Press SHIFT + CTRL + I or F12 to open the console.
